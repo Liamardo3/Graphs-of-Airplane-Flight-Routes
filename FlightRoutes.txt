@@ -1,0 +1,30 @@
+Filename: FlightRoutes.txt
+========================================
+ProgramDescription
+
+This program displays a list of flights to or from a given city, depending
+on these three command-line inputs that must be provided by the user:
+
+- First, the file containing all the available flight information
+
+- Second, either "to" or "from" to indicate whether the user wants the
+  flights to or from the given city
+
+- Third, the name of the city of interest
+
+There is no error checking, so it is the responsibility of the user to make
+sure that all three inputs are provided and all are valid.
+
+
+
+
+
+
+
+
+
+
+                                                                  Page 1 of 1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+----------------------------------------
+========================================
